@@ -34,7 +34,7 @@ Diferencia el formato de línea y las palabras clave que utiliza el PAM que es l
   - Origen: Siempre verás una dirección IP y un puerto.
   - Ejemplo: sshd[PID]: Failed password for user from 192.168.1.50.
 
--Intento local:
+- Intento local:
   - Proceso: login o getty.
   - Origen: Verás una terminal física (tty). No hay ninguna IP.
   - Ejemplo: login[PID]: FAILED LOGIN on **'/dev/tty1'** FOR 'user'.

@@ -45,5 +45,12 @@ Ventajas de la Centralización:
   - Vision en tiempo real: si el servidor se rompe o tiene un ataque Dos, los ultimos registros antes del fallo se quedan fuera para que se sepa que es lo que ocurrió.
   - Correlacion de eventos: ves lo que pasa en 100 máquinas desde un solo panel, detectando ataques globales en lugar de mirar 100 archivos distintos. 
 
+## Referencias
+[1] ManageEngine. (s. f.). Syslog Levels Explained: Severity and Facility Codes. https://www.manageengine.com/products/eventlog/logging-guide/syslog/syslog-levels.html
+
+[2] Universidad de La Laguna. (s. f.). El sistema de registro (syslog). Campus Virtual - OpenCourseWare. https://campusvirtual.ull.es/ocw/pluginfile.php/2170/mod_resource/content/0/perlexamples/node250.html
+
+[3] CCNA desde Cero. (s. f.). Syslog: Funcionamiento y Configuración. https://ccnadesdecero.es/syslog-funcionamiento-y-configuracion/
+
 
 
